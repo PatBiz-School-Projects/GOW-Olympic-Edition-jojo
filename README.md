@@ -1,5 +1,6 @@
 # ~JOJO~
 
-### Perticipant : 
+### Participants : 
 - Lucah Patel
 - Roman Lokman
+- Patrick Bizot
