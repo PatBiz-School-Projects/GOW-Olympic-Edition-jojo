@@ -18,3 +18,39 @@
 https://unice-my.sharepoint.com/:f:/r/personal/lucah_patel_etu_unice_fr/Documents/GOW?csf=1&web=1&e=uChlaO
 
 _Télécharger le dossier "models" et le mettre dans le dossier assets_
+
+### Lien vers la vidéo : 
+https://youtu.be/4Yc9bS60HdU
+
+### **Game Setup**
+***
+<br><br/>
+#### _Clone Git Repository_
+``` 
+git clone https://github.com/bogwee/GamesOnWeb.git
+```
+<br><br/>
+#### _Move to Game Directory_
+```
+cd GamesOnWeb
+```
+<br><br/>
+#### _Install Modules_
+```
+npm i
+```
+<br><br/>
+#### _Install BabylonJS Core and Loaders_
+```
+npm i @babylonjs/core @babylonjs/loaders
+```
+<br><br/>
+#### _Install Cannon for Animations_
+```
+npm i cannon @types/cannon
+```
+<br><br/>
+#### _Run the Game_
+```
+npm run dev
+```
