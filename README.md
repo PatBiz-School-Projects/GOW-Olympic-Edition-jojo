@@ -21,18 +21,19 @@ _Télécharger le dossier "models" et le mettre dans le dossier assets_
 
 ### Lien vers la vidéo : 
 https://youtu.be/4Yc9bS60HdU
-
-### **Game Setup**
 ***
+<br><br/>
+### **Game Setup**
+
 <br><br/>
 #### _Clone Git Repository_
 ``` 
-git clone https://github.com/bogwee/GamesOnWeb.git
+git clone https://github.com/gamesonweb/gow-olympic-edition-jojo.git
 ```
 <br><br/>
 #### _Move to Game Directory_
 ```
-cd GamesOnWeb
+cd gow-olympic-edition-jojo
 ```
 <br><br/>
 #### _Install Modules_
