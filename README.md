@@ -13,3 +13,8 @@
   - Contrôles Fluides : Des contrôles intuitifs qui vous permettent de vous concentrer sur l'action et la stratégie.
   - Défis Variés : Affrontez différents types d'obstacles, chacun nécessitant des compétences et des approches uniques.
   - Progression Dynamique : Plus vous grimpez, plus les défis deviennent complexes, testant vos limites à chaque étape.
+
+### Lien vers les fichier volumineux :
+https://unice-my.sharepoint.com/:f:/r/personal/lucah_patel_etu_unice_fr/Documents/GOW?csf=1&web=1&e=uChlaO
+
+_Télécharger le dossier "models" et le mettre dans le dossier assets_
