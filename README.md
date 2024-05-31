@@ -15,7 +15,7 @@
   - Progression Dynamique : Plus vous grimpez, plus les défis deviennent complexes, testant vos limites à chaque étape.
 
 ### Lien vers les fichier volumineux :
-https://unice-my.sharepoint.com/:f:/r/personal/lucah_patel_etu_unice_fr/Documents/GOW?csf=1&web=1&e=uChlaO
+https://unice-my.sharepoint.com/:f:/g/personal/lucah_patel_etu_unice_fr/EpmIUdbOUJRHmc_xoas6KVABHa0wQENFyDl5oQp_kidFXQ?e=dW7yjl
 
 _Télécharger le dossier "models" et le mettre dans le dossier assets_
 
