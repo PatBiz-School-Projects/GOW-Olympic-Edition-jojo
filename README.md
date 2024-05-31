@@ -14,6 +14,15 @@
   - Défis Variés : Affrontez différents types d'obstacles, chacun nécessitant des compétences et des approches uniques.
   - Progression Dynamique : Plus vous grimpez, plus les défis deviennent complexes, testant vos limites à chaque étape.
 
+
+### Liens pour le jeu :
+  - Ici : pour la version sans gravité afin de visiter la carte sans diffiulté.
+  - [Là](https://github.com/bogwee/GamesOnWeb) : pour avoir le vrai jeu donc avec la gravité.
+
+
+## Comment télécharger la version sans gravité :
+
+
 ### Lien vers les fichier volumineux :
 https://unice-my.sharepoint.com/:f:/g/personal/lucah_patel_etu_unice_fr/EpmIUdbOUJRHmc_xoas6KVABHa0wQENFyDl5oQp_kidFXQ?e=ezJjC3
 
