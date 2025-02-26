@@ -1,3 +1,8 @@
-node_modules
-.vscode
-assets/models/map.glb
+node_modules/
+.vscode/
+
+# Test directory
+**/Test/
+
+# Files too big
+assets/models/

@@ -1,25 +1,26 @@
-import './style.css';
-
-import { Game } from './Game';
-
-
-let start = document.getElementById("start")!;
-
-let menu = document.querySelector("nav")!;
+//# Local :
+import "./UI/style.css";
+import { Game } from "./game.ts";
 
 
-function main() {
-  menu.classList.add("notplaying")
+//-----------------------------------------------------------------------------------
 
-  const renderCanvas = document.getElementById(
-    'renderCanvas'
-  ) as HTMLCanvasElement;
-  if (!renderCanvas) {
-    return;
-  }
 
-  new Game(renderCanvas);
+// DOM's Shortcuts :
+const START_BTN = document.getElementById("start")!;
+const MENU = document.querySelector("nav")!;
+
+async function startGame() {
+  MENU.classList.add("notplaying");
+
+  Game.engine.displayLoadingUI();
+  await Game.buildScene();
+  await Game.initPlayer();
+  Game.engine.hideLoadingUI();
+
+  Game.playCutscene();
+
+  Game.play();
 }
 
-
-start.addEventListener("click", main);
+START_BTN.addEventListener("click", startGame);
